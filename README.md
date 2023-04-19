@@ -5,4 +5,4 @@ What you will need:
   - Matlab installed
   - The N-way toolbox installed: https://se.mathworks.com/matlabcentral/fileexchange/1088-the-n-way-toolbox
 
-If you need to help please contact me at: viktor.skantze@fcc.chalmers.se
+If you need help, please contact me at: viktor.skantze@fcc.chalmers.se
